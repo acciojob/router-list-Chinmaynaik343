@@ -1,8 +1,8 @@
 
 import React from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import ItemList from "./ItemList";
-import ItemDetail from "./ItemDetail";
+import ItemList from "./ItemList.js";
+import ItemDetail from "./ItemDetail.js";
 
 function App() {
   return (
